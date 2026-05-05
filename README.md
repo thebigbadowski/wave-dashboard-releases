@@ -19,6 +19,10 @@ Run the installer, then open Wave Dashboard from the Start Menu, desktop shortcu
 - One click pop out RL Tracker profile windows.
 - Mode controls for playlist, game mode, and team size.
 - Visual stat-change highlights during live play.
+- A large visual demo notification
+  -Green if other team dies
+  -Red if your team dies
+  -Yellow if both are destroyed
 - Built-in bug report and feature request buttons.
 
 ## Rocket League Setup
