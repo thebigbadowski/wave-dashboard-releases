@@ -16,10 +16,9 @@ Run the installer, then open Wave Dashboard from the Start Menu, desktop shortcu
 - Session win/loss/streak tracking by playlist and mode.
 - Team views with live player stats for goals, shots, assists, saves, touches, bumps, demos, own goals, average hit speed, and fastest hit speed.
 - Large live ball-speed speedometer with peak-speed and average-speed visuals.
-- Per-player Rocket League Tracker profile panels and popout profile windows.
+- One click pop out RL Tracker profile windows.
 - Mode controls for playlist, game mode, and team size.
 - Visual stat-change highlights during live play.
-- Update notifications with release notes inside the app.
 - Built-in bug report and feature request buttons.
 
 ## Rocket League Setup
@@ -27,9 +26,12 @@ Run the installer, then open Wave Dashboard from the Start Menu, desktop shortcu
 Wave Dashboard needs Rocket League's local Stats API enabled before it can receive live match data.
 
 Edit Rocket League's `DefaultStatsAPI.ini` before launching the game:
+This file can be found at <Install Dir>\TAGame\Config\DefaultStatsAPI.ini
+Do NOT change the port number but adjust this send rate to any number 1-120. That is how many times a second RL will send information to Wave.
+It works fine on 10
 
 ```ini
-PacketSendRate=30
+PacketSendRate=10
 Port=49123
 ```
 
