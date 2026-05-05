@@ -25,6 +25,10 @@ Run the installer, then open Wave Dashboard from the Start Menu, desktop shortcu
   -Yellow if both are destroyed
 - Built-in bug report and feature request buttons.
 
+## Note on Usage
+- Currently Wave is formatted to be used on a second monitor in full screen mode.
+- additional way to view, and customize this are planned. 
+
 ## Rocket League Setup
 
 Wave Dashboard needs Rocket League's local Stats API enabled before it can receive live match data.
