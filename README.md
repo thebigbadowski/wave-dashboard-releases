@@ -20,9 +20,9 @@ Run the installer, then open Wave Dashboard from the Start Menu, desktop shortcu
 - Mode controls for playlist, game mode, and team size.
 - Visual stat-change highlights during live play.
 - A large visual demo notification
-  <br/>-Green if other team dies
-  <br/>-Red if your team dies
-  <br/>-Yellow if both are destroyed
+  <br/>![](https://img.shields.io/badge/%20-brightgreen) Green if other team dies
+  <br/>![](https://img.shields.io/badge/%20-red) Red if your team dies
+  <br/>![](https://img.shields.io/badge/%20-yellow) Yellow if both are destroyed
 - Built-in bug report and feature request buttons.
 
 ## Note on Usage
