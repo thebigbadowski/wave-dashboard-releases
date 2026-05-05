@@ -1,6 +1,6 @@
 # Wave Dashboard
 
-Wave Dashboard is a Windows desktop app for live Rocket League session stats. It connects to Rocket League's local Stats API, shows a real-time match dashboard, and helps track what is happening during a play session without needing a browser tab open.
+Wave Dashboard is a Windows desktop app for live Rocket League session stats. It connects to Rocket [League's Stats API](https://www.rocketleague.com/en/developer/stats-api), shows a real-time match dashboard, and helps track what is happening during a play session without needing a browser tab open.
 
 This repository hosts the public installer and release files only. It does not contain the app source code.
 
